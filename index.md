@@ -22,12 +22,23 @@
 
 ## First Semester
 
+<table>
+<tr>
+	<td> Plan (Aug 31) </td>	<td> Plan,Presentation </td>
+</tr>
 
-| Plan (Aug 31)        | [Plan](plan1.pdf), Presentation         ,test                |
-|----------------------|--------------------------------------------------------------|
-| Milestone 1 (Sep 28) | Requirement, Design, Test, Presentation, Progress Evaluation |
-| Milestone 2 (Oct 26) | Presentation, Progress Evaluation                            |
-| Milestone 3 (Nov 23) | Presentation, Progress                                       |
+<tr>
+	<td> Milestone 1 (Sep 28) </td>		<td> Requirement, Design, Test, Presentation, Progress Evaluation </td>
+</tr>
+
+<tr>
+	<td> Milestone 2 (Oct 26) </td>		<td> Presentation, Progress Evaluation </td>
+</tr>
+
+<tr>
+	<td> Milestone 3 (Nov 23) </td>		<td> Presentation, Progress </td>
+</tr>
+</table>
 
 
 ## Second Semester
