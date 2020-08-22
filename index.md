@@ -13,8 +13,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 | Team Members and Email Adressess  | Jacob Liberman - jliberman2016@my.fit.edu |
 | Faculty Advisor                   |                                           |
 
-# First Semester
+## First Semester
 
+
+
+| Second Semeseter                                                                      |
 | Plan (Aug 31)        	| Plan, Presentation                                           	|
 |-----------------------|---------------------------------------------------------------|
 | Milestone 1 (Sep 28) 	| Requirement, Design, Test, Presentation, Progress Evaluation 	|
@@ -22,7 +25,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 | Milestone 3 (Nov 23) 	| Presentation, Progress                                       	|
 
 
-# Second Semester
+## Second Semester
 
 | Plan (Jan 22)        	| Plan, Presentation                                           	|
 |----------------------	|--------------------------------------------------------------	|
