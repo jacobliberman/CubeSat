@@ -16,7 +16,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 
 | Plan (Aug 31)        	| Plan, Presentation                                           	|
-|----------------------	|--------------------------------------------------------------	|
 | Milestone 1 (Sep 28) 	| Requirement, Design, Test, Presentation, Progress Evaluation 	|
 | Milestone 2 (Oct 26) 	| Presentation, Progress Evaluation                            	|
 | Milestone 3 (Nov 23) 	| Presentation, Progress                                       	|
