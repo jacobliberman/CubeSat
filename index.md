@@ -2,7 +2,9 @@
 <table>
 
         <th>
+        <tr>
         <td>Project Name</td>       <td> CubeSat </td>
+        </tr>
         </th>
 
     <tr>
