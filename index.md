@@ -1,18 +1,18 @@
 
-## Welcome to GitHub Pages
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
 
-You can use the [editor on GitHub](https://github.com/jacobliberman/CubeSat/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 | Project Name                      | CubeSat                                   |
 |-----------------------------------|-------------------------------------------|
 | Team Members and Email Adressess  | Jacob Liberman - jliberman2016@my.fit.edu |
 | Faculty Advisor                   |                                           |
+
+
+
 
 ## First Semester
 
