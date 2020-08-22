@@ -1,14 +1,19 @@
 
 <table>
     <tr>
-        <td>Foo</td>
+        <td>Project Name</td>       <td> CubeSat </td>
     </tr>
+    <tr>
+        <td> Team Memebers and Email Adresses </td>         <td> Jacob Liberman - jliberman2016@my.fit.edu </td>
+    </tr>
+    <tr>
+        <td> Faculty Advisor </td>              <td>???</td>
 </table>
 
 
 | Project Name                      | CubeSat                                   |
 |-----------------------------------|-------------------------------------------|
-| Team Members and Email Adressess  | Jacob Liberman - jliberman2016@my.fit.edu |
+| Team Members and Email Adresses  | Jacob Liberman - jliberman2016@my.fit.edu |
 | Faculty Advisor                   |                                           |
 
 
