@@ -24,7 +24,7 @@
 
 <table>
 <tr>
-	<td> Plan (Aug 31) </td>	<td> <a>Plan</a>, Presentation </td>
+	<td> Plan (Aug 31) </td>	<td> <a href = "/plan1.pdf">Plan</a>, Presentation </td>
 </tr>
 
 <tr>
