@@ -24,7 +24,7 @@
 
 <table>
 <tr>
-	<td> Plan (Aug 31) </td>	<td> Plan,Presentation </td>
+	<td> Plan (Aug 31) </td>	<td> <a>Plan</a>, Presentation </td>
 </tr>
 
 <tr>
@@ -44,7 +44,7 @@
 ## Second Semester
 <table>
 <tr>
-	<td> Plan (Jan 22) </td>	<td> Plan,Presentation </td>
+	<td> Plan (Jan 22) </td>	<td> Plan, Presentation </td>
 </tr>
 
 <tr>
