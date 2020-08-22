@@ -42,9 +42,21 @@
 
 
 ## Second Semester
+<table>
+<tr>
+	<td> Plan (Jan 22) </td>	<td> Plan,Presentation </td>
+</tr>
 
-| Plan (Jan 22)        	| Plan, Presentation                                           	|
-|----------------------	|--------------------------------------------------------------	|
-| Milestone 1 (Feb 17) 	| Requirement, Design, Test, Presentation, Progress Evaluation 	|
-| Milestone 2 (Mar 23) 	| Presentation, Progress Evaluation                            	|
-| Milestone 3 (Apr 20) 	| Presentation, Progress                                       	|
+<tr>
+	<td> Milestone 1 (Feb 17) </td>		<td> Requirement, Design, Test, Presentation, Progress Evaluation </td>
+</tr>
+
+<tr>
+	<td> Milestone 2 (Mar 23) </td>		<td> Presentation, Progress Evaluation </td>
+</tr>
+
+<tr>
+	<td> Milestone 3 (Apr 20) </td>		<td> Presentation, Progress </td>
+</tr>
+</table>
+
