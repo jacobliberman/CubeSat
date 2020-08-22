@@ -1,13 +1,10 @@
 
-<table>
-
-        <th>
+<table> 
         <tr>
-        <td>Project Name</td>       <td> CubeSat </td>
+        <th>Project Name</th>       <th> CubeSat </th>
         </tr>
-        </th>
-
-    <tr>
+   
+   <tr>
         <td> Team Memebers and Email Adresses </td>         <td> Jacob Liberman - jliberman2016@my.fit.edu </td>
     </tr>
     <tr>
