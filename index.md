@@ -1,4 +1,4 @@
-<html>
+
 <table> 
         <tr>
         <th>Project Name</th>       <th> CubeSat </th>
@@ -9,12 +9,10 @@
     </tr>
     <tr>
         <td> Faculty Advisor </td>              <td>???</td>
-
-</tr>
+    </tr>
 </table>
 
 
-</html>
 
 ## First Semester
 
