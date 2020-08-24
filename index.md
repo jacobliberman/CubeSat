@@ -1,4 +1,4 @@
-
+<html>
 <table> 
         <tr>
         <th>Project Name</th>       <th> CubeSat </th>
@@ -12,10 +12,11 @@
 </table>
 
 
-
+</html>
 
 ## First Semester
 
+<html>
 <table>
 <tr>
 	<td> Plan (Aug 31) </td>	<td> <a href = "/plan1.pdf">Plan</a>, Presentation </td>
@@ -34,8 +35,11 @@
 </tr>
 </table>
 
-
+</html>
 ## Second Semester
+
+<html>
+
 <table>
 <tr>
 	<td> Plan (Jan 22) </td>	<td> Plan, Presentation </td>
@@ -54,3 +58,4 @@
 </tr>
 </table>
 
+</html>
