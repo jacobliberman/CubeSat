@@ -9,6 +9,8 @@
     </tr>
     <tr>
         <td> Faculty Advisor </td>              <td>???</td>
+
+</tr>
 </table>
 
 
