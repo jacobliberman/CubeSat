@@ -19,7 +19,7 @@
 <html>
 <table>
 <tr>
-	<td> Plan (Aug 31) </td>	<td> <a href = "/First_Semester/Plan/plan1.pdf">Plan</a>, Presentation </td>
+	<td> Plan (Aug 31) </td>	<td> <a href = "First_Semester/Plan/plan1.pdf">Plan</a>, Presentation </td>
 </tr>
 
 <tr>
