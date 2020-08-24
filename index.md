@@ -19,7 +19,7 @@
 <html>
 <table>
 <tr>
-	<td> Plan (Aug 31) </td>	<td> <a href = "CubeSat/First_Semester/plan1.pdf">Plan</a>, <a href= "CubeSat/First_Semester/plan1Pres.pdf">Presentation</a> </td>
+	<td> Plan (Aug 31) </td>	<td> <a href = "/First_Semester/plan1.pdf">Plan</a>, <a href= "/First_Semester/plan1Pres.pdf">Presentation</a> </td>
 </tr>
 
 <tr>
