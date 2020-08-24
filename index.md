@@ -12,12 +12,6 @@
 </table>
 
 
-| Project Name                      | CubeSat                                   |
-|-----------------------------------|-------------------------------------------|
-| Team Members and Email Adresses  | Jacob Liberman - jliberman2016@my.fit.edu |
-| Faculty Advisor                   |                                           |
-
-
 
 
 ## First Semester
