@@ -8,7 +8,7 @@
         <td> Team Memebers and Email Adresses </td>         <td> Jacob Liberman - jliberman2016@my.fit.edu </td>
     </tr>
     <tr>
-        <td> Faculty Advisor </td>              <td>???</td>
+        <td> Faculty Advisor </td>              <td>Dr. Silaghi</td>
     </tr>
 </table>
 
