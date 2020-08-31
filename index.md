@@ -23,15 +23,15 @@
 </tr>
 
 <tr>
-	<td> Milestone 1 (Sep 28) </td>		<td> Requirement, Design, Test, Presentation, Progress Evaluation </td>
+	<td> Milestone 1 (Sep 28) </td>		<td> <a href = "First_Semester/requirement.pdf">Requirement</a>, <a href= "First_Semester/design.pdf">Design</a>, <a href="First_Semester/test.pdf">Test</a>, <a href="First_Semester/milestone1.pdf">Presentation</a>, <a href="First_Semester/eval1.pdf">Progress Evaluation</a>/td>
 </tr>
 
 <tr>
-	<td> Milestone 2 (Oct 26) </td>		<td> Presentation, Progress Evaluation </td>
+	<td> Milestone 2 (Oct 26) </td>		<td> <a href = "First_Semester/milestone2.pdf">Presentation</a>, <a href = "First_Semester/eval2.pdf">Progress Evaluation</a> </td>
 </tr>
-
+ 
 <tr>
-	<td> Milestone 3 (Nov 23) </td>		<td> Presentation, Progress </td>
+	<td> Milestone 3 (Nov 23) </td>		<td> <a href = "First_Semester/milestone3.pdf">Presentation</a>, <a href = "First_Semester/eval3.pdf">Progress Evaluation</a></td>
 </tr>
 </table>
 
