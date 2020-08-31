@@ -23,7 +23,7 @@
 </tr>
 
 <tr>
-	<td> Milestone 1 (Sep 28) </td>		<td> <a href = "First_Semester/requirement.pdf">Requirement</a>, <a href= "First_Semester/design.pdf">Design</a>, <a href="First_Semester/test.pdf">Test</a>, <a href="First_Semester/milestone1.pdf">Presentation</a>, <a href="First_Semester/eval1.pdf">Progress Evaluation</a>/td>
+	<td> Milestone 1 (Sep 28) </td>		<td> <a href = "First_Semester/requirement.pdf">Requirement</a>, <a href= "First_Semester/design.pdf">Design</a>, <a href="First_Semester/test.pdf">Test</a>, <a href="First_Semester/milestone1.pdf">Presentation</a>, <a href="First_Semester/eval1.pdf">Progress Evaluation</a></td>
 </tr>
 
 <tr>
